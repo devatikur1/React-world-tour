@@ -1,0 +1,12 @@
+.country {
+    border: 2px solid steelblue;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    text-align: center;
+    padding: 20px 25px;
+}
+
+.country img {
+    width: 100%;
+}
